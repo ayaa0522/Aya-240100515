@@ -16,11 +16,7 @@ int main() {
     }
     int count=0;
  
-    //   for (int i = 0; i < n; i++) {
-    //     if (score[i] >= score[k - 1] && score[i] > 0) {
-    //         count++;
-    //     }
-    // }
+  
         cout<<count;
     return 0;
 }
